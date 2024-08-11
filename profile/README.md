@@ -5,7 +5,7 @@ Holaaa 👋
 En ProductosAI, estamos construyendo algo increíble desde Latinoamerica: la primera Fábrica de Agentes AI del mundo para Servicios al Cliente y Ventas. 🌍 Imagina un mundo donde la inteligencia artificial no solo mejora la eficiencia de la atención al cliente, sino que también transforma la manera en que las empresas se relacionan con sus clientes, creando experiencias que son tan humanas como extraordinarias.
 
 ### Nuestra Misión
-Nuestra misión esmisión de desarrollar tecnología de primera clase integrando Inteligencia Artificial para impulsar el crecimiento eficiente de empresas y personas.
+Nuestra misión es desarrollar tecnología de primera clase integrando Inteligencia Artificial para impulsar el crecimiento eficiente de empresas y personas.
 
 ### Visión
 En ProductosAI, no solo miramos hacia el futuro, lo estamos construyendo. Nuestra visión es una mezcla de innovación constante y compromiso con la excelencia:
